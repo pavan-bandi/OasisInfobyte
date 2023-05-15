@@ -5,9 +5,13 @@ class power:
     print("we are studying")
 
     print("have a great day")
+
+    print("jealoues")
+=======
     print("entertain")
 #done
 =======
 b=power()
+
 
 

@@ -5,3 +5,4 @@ class power:
     print("we are studying")
     print("have a great day")
     print("entertain")
+#done

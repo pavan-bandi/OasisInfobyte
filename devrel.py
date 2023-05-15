@@ -3,3 +3,5 @@ class power:
     self.term=term
   def stud(self,subjext):
     print("we are studying")
+b=power()
+
